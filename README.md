@@ -1,2 +1,4 @@
-## GameTech-HW2
+# GameTech-HW2
+
+## Video Description
  
